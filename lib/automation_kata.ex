@@ -1,0 +1,2 @@
+defmodule AutomationKata do
+end
